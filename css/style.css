@@ -115,7 +115,7 @@ span{
 }
 
 @keyframes floatImage{
-	0{
+	0%{
 		transform: translateY(0);
 	}
 	50%{
@@ -255,6 +255,10 @@ span{
 
 .tech-icons{
 	width: 80px;
+}
+
+.angular{
+	width: 200px;
 }
 
 /*----------------PORTFOLIO----------------*/

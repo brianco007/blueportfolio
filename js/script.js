@@ -55,7 +55,7 @@ window.onscroll = () =>{
 
 /*---------------------------typed js------------------------*/
  const typed = new Typed(".multiple-text", {
- 	strings:["fullstack developer.", "learning enthusiast.", "great fit for your team."],
+ 	strings:["full-stack developer.", "learning enthusiast.", "great fit for your team."],
  	typeSpeed:70,
  	backSpeed:40,
  	backDelay:100,

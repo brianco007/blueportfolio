@@ -26,6 +26,7 @@ html {
 body {
 	background: var(--bg-color);
 	color: var(--text-color);
+	overflow-x: hidden;
 
 }
 
@@ -33,6 +34,10 @@ section {
 	min-height: 100vh;
 	padding: 10rem 9% 2rem;
 	width: 100vw;
+}
+
+#loom-companion-mv3 {
+	display: none;
 }
 
 
